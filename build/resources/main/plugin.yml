@@ -1,0 +1,6 @@
+name: ASpec
+version: '1.0-SNAPSHOT'
+main: kz.ifihtich.aspec.ASpec
+api-version: '1.16'
+commands:
+  spec:
